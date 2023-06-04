@@ -1,0 +1,1660 @@
+DESIGNER WEAPONS
+URLS for TOOLING AND RESOURCES FOR UI, UX, WEB DESIGN & PRODUCTIVITY 
+
+
+
+
+2023 season
+
+
+Soundscliuyd downloader great UI
+https://downloadsound.cloud/playlist?url=https://soundcloud.com/user-233401247/sets/soft-synthwave
+
+
+Mannewquien 3d model
+https://free3d.com/3d-model/wood-dummy-79325.html
+
+Free 3d models
+https://free3d.com/
+
+
+Text to speech free
+https://ttsmp3.com/ 
+
+Bootstrap classes cheatsheet
+https://hackerthemes.com/bootstrap-cheatsheet/#navbar__sticky-top 
+
+mo.js - motion graphics library for UX Design
+https://mojs.github.io/ 
+
+Free text to speech tool
+
+https://freetools.textmagic.com/text-to-speech 
+
+
+This one is good but short
+https://beta.elevenlabs.io/ 
+
+
+
+Grid builder
+https://grid.layoutit.com/ 
+
+
+Awesome css frameworks long list - lightweight, classless, all purposes etc
+https://github.com/troxler/awesome-css-frameworks#very-lightweight  
+
+Tailwind components for free
+https://postsrc.com/components/skeleton/basic-skeleton  
+
+2022 Season
+
+Accessible design principles 
+https://xd.adobe.com/ideas/principles/web-design/what-is-accessible-design/  
+
+Accessibility checker free
+https://www.deque.com/free-accessibility-test/  
+
+Excelente rtecurso para aprender y repasar los HTML/CSs/VUE/RECT etc sencillo y explicado
+https://lenguajehtml.com/  
+
+1 liner layouts with css grid
+https://web.dev/one-line-layouts/  
+
+Perfect print stylesheets
+https://www.jotform.com/blog/css-perfect-print-stylesheet-98272/   
+
+Google Doc Templates - amazing
+https://thegoodocs.com/  
+
+Rich text editor free - plugin for web projects
+https://quilljs.com/playground/  
+
+Best soundcloud downloader
+https://downloadsound.cloud/track  
+
+Charts css - css based charts with html structures
+https://chartscss.org/  
+
+Audio l;ibraries for audio handling
+https://alemangui.github.io/pizzicato/#sound-from-file  
+
+https://tonejs.github.io/  
+
+
+Markup vs mockup
+https://medium.com/@mikeatherton/markup-vs-mockup-3e70c7583d61  
+
+Designers Lobby, all trending tools and resources
+https://www.designerslobby.com/  
+
+Css formatter for Sublime TEXT compact css, one line per style.
+https://packagecontrol.io/packages/CSS%20Format  
+
+Mobile filtering - TONS of samples
+https://baymard.com/mcommerce-usability/benchmark/mobile-page-types/filtering-options  
+
+
+40 js libs to make your life way better for each case
+https://kinsta.com/blog/javascript-libraries/  
+
+Create single page apps without the build
+https://progressivewebninja.com/create-vuejs-application-without-build-tools/  
+
+Page transitions with SWUP - LEarn it up
+Design course:
+https://www.youtube.com/watch?v=mWeYMyN5-oo  
+https://www.youtube.com/watch?v=mJIQ9621VUs  
+
+Landiumy - tailwind
+https://landing-gradients.netlify.app/  
+
+30 free Tailwind templates to start new website
+https://dev.to/mariann93502220/30-free-tailwind-css-templates-to-kick-start-your-next-project-3igo  
+
+My stack will OUTLIVE yours a case on why html and css are far the best front end tools
+https://blog.steren.fr/2020/my-stack-will-outlive-yours/   
+
+https://www.youtube.com/watch?v=whlgdslXFa8 
+
+Amazing list of AI apps and things
+https://openaimaster.com/category/apps/ 
+
+Image creation
+https://openart.ai/create 
+
+Image creation with AI
+https://labs.openai.com/ 
+
+Video editor clip maker
+https://clipchamp.com/en/ 
+
+Landing page right awai with AI
+https://www.mixo.io/ 
+
+Sell online
+https://kit.co/ 
+
+AI amazing voice generator
+https://play.ht/
+
+Create story books
+https://www.talesfactory.app/ 
+
+Re-writting tool
+https://quillbot.com/ 
+
+Iphone apps in html
+https://cordova.apache.org/ 
+
+Aweeome promptd
+https://www.awesomegptprompts.com/ 
+
+Ai prompts for chat gdp - ui design and dev
+https://www.developerupdates.com/blog/chatgpt-prompts-for-ui-developers-with-examples 
+
+FIle converter from html to MOBI etc…
+https://convertio.co/
+
+
+Chatsonic - AI CHAT GDP BOT
+https://app.writesonic.com/template/8fd5fe9b-c113-43dc-9cd4-55edd9a86cf0/chatsonic/f7cadfe1-7995-48d4-86cd-30f32b6c5834 
+
+Fabric.js canvas library
+http://fabricjs.com/ 
+
+Lottie animations fo web amazing lib
+https://airbnb.io/lottie/#/ 
+https://cdnjs.com/libraries/lottie-web 
+https://lottiefiles.com/ 
+
+Script that takes after effects ans makes html animations
+https://aescripts.com/bodymovin/ 
+
+Quick GIT course refresher 5 minutes
+https://www.educative.io/answers/learn-git-and-github-in-5-minutes 
+
+Top JS libraries and CSS libs for UX/UI
+https://dzone.com/articles/top-21-javascript-and-css-libraries-to-develop-you 
+
+Cool slick modern charts JS
+https://apexcharts.com/javascript-chart-demos/
+
+
+MIcron - interactions library for UX
+https://webkul.github.io/micron/ 
+
+Javascript canvas framework
+https://zimjs.com/examples.html 
+
+Lib for component driven dev ux dev x accesibility
+https://www.inkline.io/docs/preface 
+New
+
+Grid builder
+https://grid.layoutit.com/ 
+
+Awesome css frameworks long list - lightweight, classless, all purposes etc
+https://github.com/troxler/awesome-css-frameworks#very-lightweight 
+
+Tailwind components for free
+https://postsrc.com/components/skeleton/basic-skeleton 
+
+2022 Season
+
+Accesible design principles 
+https://xd.adobe.com/ideas/principles/web-design/what-is-accessible-design/ 
+
+Accesibility checker free
+https://www.deque.com/free-accessibility-test/ 
+
+Excelente rtecurso para aprender y repasar los HTML/CSs/VUE/RECT etc sencillo y explicado
+https://lenguajehtml.com/ 
+
+1 liner layouts with css grid
+https://web.dev/one-line-layouts/ 
+
+Perfect print stylesheets
+https://www.jotform.com/blog/css-perfect-print-stylesheet-98272/  
+
+Google Doc Templates - amazing
+https://thegoodocs.com/ 
+
+Rich text editor free - plugin for web projects
+https://quilljs.com/playground/ 
+
+Best soundcloud downloader
+https://downloadsound.cloud/track 
+
+Charts css - css based charts with html structures
+https://chartscss.org/ 
+
+Audio l;ibraries for audio handling
+https://alemangui.github.io/pizzicato/#sound-from-file 
+
+https://tonejs.github.io/ 
+
+
+Markup vs mockup
+https://medium.com/@mikeatherton/markup-vs-mockup-3e70c7583d61 
+
+Designers Lobby, all trending tools and resources
+https://www.designerslobby.com/ 
+
+Css formatter for Sublime TEXT compact css, one line per style.
+https://packagecontrol.io/packages/CSS%20Format 
+
+Mobile filtering - TONS of samples
+https://baymard.com/mcommerce-usability/benchmark/mobile-page-types/filtering-options 
+
+
+40 js libs to make your life way better for each case
+https://kinsta.com/blog/javascript-libraries/ 
+
+Create single page apps without the build
+https://progressivewebninja.com/create-vuejs-application-without-build-tools/ 
+
+Page transitions with SWUP - LEarn it up
+Design course:
+https://www.youtube.com/watch?v=mWeYMyN5-oo 
+https://www.youtube.com/watch?v=mJIQ9621VUs 
+
+Landiumy - tailwind
+https://landing-gradients.netlify.app/ 
+
+30 free Tailwind templates to start new website
+https://dev.to/mariann93502220/30-free-tailwind-css-templates-to-kick-start-your-next-project-3igo 
+
+My stack will OUTLIVE yours a case on why html and css are far the best front end tools
+https://blog.steren.fr/2020/my-stack-will-outlive-yours/ 
+
+Solid 10 cSS tricks including details component, checkboxes, sidebar puller, all in css only
+https://stackdiary.com/useful-css-tricks/ 
+
+Amazing long lister of CLASSLESS CSS frameworks
+https://github.com/dbohdan/classless-css 
+
+A-frame academy with great examples and code
+https://learn.framevr.io/project1/part3 
+
+A frame code sample for quest
+http://inspiredtoeducate.net/inspiredtoeducate/build-a-aframe-io-scene-on-oculus-quest-with-teleportation/ 
+
+A Frame CORE examples
+https://altspacevr.github.io/aframe/examples/ 
+
+XXXXX
+
+XXXXX
+
+
+2021 Season
+
+
+Doddle.css great sketchy CSS
+https://chr15m.github.io/DoodleCSS/ 
+
+Three JS GREAT Tutorial
+https://www.youtube.com/watch?v=YK1Sw_hnm58 
+
+Consistency can be dangerous - a case for usability over consistency
+https://uxdesign.cc/be-usable-not-consistent-not-uniform-9ac72374cf93 
+
+Great color mixer tool perfect for css and color theming
+https://fffuel.co/cccolor/ 
+
+Accessibility myths website - show it to manager
+https://a11ymyths.com/ 
+
+Excellent code tutorials with the project right there, angular, react, vue, etc
+https://codeamigo.dev/ 
+
+Arsenal of samples for design libraries in Government
+https://government.github.io/best-practices/design-systems/ 
+
+50 UI Tips for better UX
+https://fifty.user-interface.io/50_ui_tips.pdf 
+
+Design grid layout son the browser with this tool
+https://layout.bradwoods.io/ 
+
+Free MP3 sounds to download
+https://freemp3cloud.com/ 
+
+Node JS definitive beginner tute
+https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/ 
+
+Great sick website dedicated to learn css 
+https://web.dev/learn/css/ 
+
+Clonable! - Modern blog layout
+https://codepen.io/TurkAysenur/full/gOmMgpx 
+
+NEw web to download 3d assets
+https://market.pmnd.rs/ 
+
+Mind Blowing generative vr art Three .js galleries
+https://virtualart.chromeexperiments.com/artists/harald-belker/sessions/spacecraft/ 
+
+ThreeJSEditor
+https://mrdoob.com/projects/htmleditor/ 
+
+Three Js player and playground for learning
+https://playcode.io/three_js/ 
+
+Amazing widgets to embed
+https://elfsight.com/contact-form-widget/html/ 
+
+Editable table reference
+https://www.jqueryscript.net/demo/crud-bstable/ 
+
+Free hosting for apps and static sites
+https://markodenic.com/list-of-places-you-can-host-your-apps-for-free/ 
+
+Sick and practical CSS Tips for design empowerment
+https://markodenic.com/css-tips/ 
+
+Front end practice is sick
+https://www.frontendpractice.com/ 
+
+Cloneable design from amazing front ender in France
+https://www.martin-laxenaire.fr/ 
+
+Statista statistics in the world and webs
+https://www.statista.com/statistics/784403/time-spend-watching-online-video-by-content-worldwide/ 
+
+Swiper JS lib
+https://swiperjs.com/get-started 
+
+Curso Triple FRAMEWORKS vue, angular, Reacciona
+https://www.udemy.com/course/master-en-frameworks-javascript-aprende-angular-react-vue-js/learn/lecture/15743032#overview 
+
+Australian Gov Design System
+https://designsystem.gov.au/ 
+
+USGovernment
+https://designsystem.digital.gov/components/overview/ 
+
+US GOV web style guide / design principles
+https://designsystem.digital.gov/design-principles/ 
+
+Canada government design system
+https://www.canada.ca/en/government/about/design-system.html 
+
+UK Gov design system - library
+https://design-system.service.gov.uk/get-started/ 
+
+Hundred + Front end tips - amazing simple tricks to learn instantly and apply them right away
+https://getfrontend.tips/all.html 
+
+Morphing and loading  buttons with loading and confirmation
+https://tympanus.net/Development/ProgressButtonStyles/ 
+
+https://tympanus.net/Development/ButtonComponentMorph/index.html 
+
+Js library for amazing shapers
+https://ptsjs.org/ 
+
+CSS Transitions best guide
+https://zellwk.com/blog/css-transitions/ 
+
+How to learn css  guide
+https://www.smashingmagazine.com/2019/01/how-to-learn-css/ 
+
+Multi format converter and formatter front end kit
+https://www.fetoolkit.io/ 
+
+PDFS from HTMLs
+https://pdf.math.dev/ 
+
+No burger menus 
+https://www.matuzo.at/blog/more-or-less-burger-less-navigation/ 
+
+HTML new boilerplate with powerful metas
+https://www.matuzo.at/blog/html-boilerplate/ 
+
+Angular course
+https://www.lynda.com/Gary-Simon/427927-1.html 
+
+SVG Animator
+https://www.svgator.com/ 
+
+HTML encoder to show code in <pre> tags
+https://opinionatedgeek.com/Codecs/HtmlEncoder 
+
+Code Formatter to make the code look better or to encode things
+https://www.freeformatter.com/html-formatter.html#ad-output 
+
+Background video library bideo.js
+https://github.com/rishabhp/bideo.js 
+
+PDF viewer tutorial
+https://pspdfkit.com/blog/2018/render-pdfs-in-the-browser-with-pdf-js/ 
+
+Great library for uploading documents. Plugin for web dev and UI design
+https://pqina.nl/filepond/docs/ 
+
+Ways to format CSS
+https://css-tricks.com/different-ways-to-format-css/ 
+
+Media addiction article
+https://medium.com/swlh/user-engagement-is-code-for-addiction-a2f50d36d7ac 
+
+Another jewel on css grid tutorials
+https://dev.to/joyshaheb/css-grid-cheat-sheet-illustrated-in-2021-1a3 
+
+Flowchart fun amazing text driven flowcharts
+https://flowchart.fun/ 
+
+Codepen alternative 
+https://liveweave.com/ 
+
+Warter.css classless css lib injector
+https://watercss.netlify.app/#installation
+
+
+Wand css for amazing animations on interaction
+https://www.csswand.dev/?ref=producthunt 
+
+
+CSS snippetz
+https://codemyui.com/video-preview-button-with-expand-on-hover-and-full-screen-on-click/# 
+
+
+Amazing CMS for HTML with HTML attribute
+https://mavo.io/ 
+
+Modern CSS snips and samplers
+https://moderncss.dev/
+ 
+
+Clonable site using perspective sliding
+https://robin-noguier.com/?ref=tinyblocks.cc 
+
+Web blocks sick and amazing
+https://tinyblocks.cc/ 
+
+W3 techs - stats of all the webs worlds
+https://w3techs.com/technologies/overview/web_hosting 
+
+Accessibility Checker
+https://www.powermapper.com/ 
+
+Real canada history
+https://www.themythiscanada.com/ 
+
+Checklist maker
+https://www.checkli.com/ 
+
+List adder - email capturers simple
+https://www.listladder.com/a/dashboard 
+
+Great sales letters and funnel copy ideas
+https://leadfunnels.com/order?cf_affiliate_id=513516&affiliate_id=513516&utm_source=GDN&utm_medium=DC&utm_campaign=LF&utm_term=MOFU%2FBOFU&utm_content=Lead%20Funnels%20-%20DC%20-%20MOFU%2FBOFU%20-%20Audiences%20-%20A%2FD%20-%20A%2FC&gc_id=10654646623&gclid=Cj0KCQiA6t6ABhDMARIsAONIYyw-mbIyVye-xWhfHIQ3wHQG3wB7G-vST_VxHBrYMwXvxmIB9dicME4aApJyEALw_wcB
+
+
+Swipe files for adcopy and sales page
+https://swipefile.com/scripts/ 
+
+Sick resources for info product making and rapid profitable sites.
+https://www.digitalassetbuilders.io/ 
+
+Wikedtemplates
+https://www.wickedtemplates.com/templates
+
+Free image bank
+https://pikwizard.com/ 
+
+Best dev tools of 2021
+https://www.impressivewebs.com/most-interesting-front-end-developer-tools-2021/ 
+
+Fantasy UI references
+https://www.pushing-pixels.org/fui/  
+
+
+*AudioCourses*
+
+Figma crashcourse and funky video cover one page site
+https://www.figmacrashcourse.com/ 
+
+News classless css framework trending up
+https://newcss.net/ 
+
+goFIle
+https://gofile.io/welcome 
+
+70 info product ideas 
+https://www.mailerlite.com/blog/digital-products?source=google&medium=cpc&campaign=5.%20Content:%20Product%20DSA%20[USA+EU]&content=DSA%20Blog&term=&ml_campaignid=1741543874&ml_adsetid=69685507898&gclid=CjwKCAiAudD_BRBXEiwAudakX9L8snXkfXpDFcUH8x3JdEJKbZPpbfOowjjaQHoSzdWQd6oiCI1ttBoCZNEQAvD_BwE 
+\
+More infoprod ideas
+https://www.activecampaign.com/blog/information-product-ideas 
+
+Animations without making keyframes
+https://animxyz.com/ 
+
+Great soft and chilled spacey design music for work
+https://www.youtube.com/watch?v=VQ5mH_hyKU0 
+
+Instagram to video downloader:
+https://www.w3toys.com/#content 
+
+Convert instagram into gif
+https://imgflip.com/gif-maker 
+
+Convert videos from URLs into animated GIFS
+https://www.kapwing.com/tools/convert-video 
+
+
+
+2020 Season
+
+
+Colors css microlibrary nice palette
+https://github.com/mrmrs/colors 
+
+Content delivery networks
+https://bunnycdn.com/
+
+Examples of style guides
+http://styleguides.io/ 
+
+Date range picker
+http://www.daterangepicker.com/ 
+
+Learn to host images in amazon AWS
+https://www.channelape.com/uncategorized/host-images-amazon-s3-cheap-5-minutes/
+
+Learn css grid easy
+https://learncssgrid.com/ 
+
+ANSI icons for text graphs
+http://xahlee.info/comp/unicode_user_interface_icons.html 
+
+Designed with svelte
+https://sveltekitthreejsgsap.netlify.app/blog 
+
+Great inspiration site with video background and Ghost UI
+http://takasho.agency/ 
+
+Final cut assets transitions, templates and effects sick
+https://motionarray.com/
+
+CSS gradient making tool
+https://cssgradient.io/
+
+Be templates perfect corp sites 
+http://be.beantownthemes.com/intro/be-intro/be/splash/index.html#layouts 
+
+Font Awesome 5
+https://fontawesome.com/icons?d=gallery&m=free 
+
+ANSI art baner genertator
+https://manytools.org/hacker-tools/ascii-banner/ 
+
+Disgustingly sick web graphs in a grid website
+https://n3design.com/83175/5514329/broadcast/zvezda-news 
+
+A case for responsive typography
+https://archinect.com/aoddesign/project/jiangxi-nanchang-hengmao-sales-center 
+
+Stunning and absolutely deviantly sick environments and pictures of architectural design interior like (builderdev)
+https://archinect.com/aoddesign/project/jiangxi-nanchang-hengmao-sales-center 
+
+Friking great 3d scroller wb with three js and react
+https://codesandbox.io/embed/gallant-elbakyan-lvwmj 
+
+Css guy blog with insightful articles
+https://ishadeed.com/articles/ 
+
+MOnio icons lib
+https://icons.mono.company/ 
+
+Web based FTP client
+https://www.onlineftp.ch/
+
+
+Reframing wireframes
+https://uxplanet.org/reframe-wireframes-6d48ada134ff#:~:text=Reframe%20Wireframes-,Wireframes%20aren't%20useless%2C%20but%20our,approach%20to%20wireframing%20is%20outdated.&text=conflict%20arose%20after%20clients%20had,no%20matter%20how%20carefully%20crafted.%E2%80%9D 
+
+Gifs free searches
+https://gfycat.com/featured/reactions
+
+Swipe demos
+https://swiperjs.com/demos/
+
+Brutalism, in action
+https://www.viget.com/articles/web-brutalism-seamfulness-and-notion/ 
+
+Components Driven
+https://www.componentdriven.org/
+
+Ratchet prototype phone Apps with html/css and simple JS
+http://goratchet.com/components/
+
+
+Lunacy free figma-like design tool
+https://icons8.com/lunacy
+
+
+eCommercePlugin
+https://www.powr.io/tutorials/how-to-add-ecommerce-plugin-to-your-html-site#lp-about
+
+
+ClassLess CSS - no headaches no classes, 
+http://classless.de/
+
+
+Official CSS Validation service to detect what is wrong with your stylesheets
+https://jigsaw.w3.org/css-validator/
+
+Input modes: how to trigger different keyboards in Mobile phones
+https://twitter.com/IMAC2/status/1293863884537946112
+
+Web animations API
+https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API
+
+
+Nice illustration freebies
+https://undraw.co/illustrations
+
+
+Shoelace - style library with agnostic components
+https://shoelace.style/
+
+A case for accessible forms
+https://rangle.io/blog/everything-you-need-to-know-about-designing-accessible-forms/
+
+Amazing 3d Viewer
+https://modelviewer.dev/
+
+Audio editor
+https://audiomass.co/
+
+Slick mobile first framework simulates apps and its made in html css and js
+https://onsen.io/
+
+Brutal websites
+https://www.awwwards.com/brutalism-brutalist-websites.html
+
+Demos and protos - slick value prop
+http://recherche.ina.fr/eng/
+
+One liner CSS layouts the modern way
+https://web.dev/one-line-layouts/
+
+Wireframes on the browser
+https://bradfrost.com/blog/post/html-wireframes 
+
+Hover effects css
+https://thebrandsmen.com/css-image-hover-effects/
+
+800+ Templates html5
+https://templated.co/
+
+Vue the documentary
+https://www.youtube.com/watch?v=OrxmtDw4pVI
+
+Edureka - Courses in a lot of fronts
+https://www.edureka.co/
+
+Sick camaleon component library
+https://codyhouse.co/ds/components/data-display
+
+Total Flexgrid stretchable sick
+https://svelte-grid.now.sh/
+
+The old software
+https://www.embedded.com/meet-the-worlds-oldest-computer-program-thats-still-in-use-today/
+
+Javascript the right way
+http://jstherightway.org/
+
+Create sitemaps easy peasy 
+https://www.gloomaps.com/
+
+
+2019 Season
+
+Trello Project management
+www.trello.com 
+
+KANBAN FLOW
+Ec toadter suit
+//kanbanflow.com/board/yuz6vs
+
+Design system mock:
+https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e3afb514-9b7d-42d7-bb86-24f731495b07/carbon-design-system-preview.png
+
+Best code generators
+https://www.hongkiat.com/blog/css-code-generator-web-apps/
+
+stacker
+https://mdbootstrap.com/builder/editor
+
+Checkbox Generator
+https://bun.js.org/
+
+Generator 
+https://html-css-js.com/css/generator/
+
+Dev xtreme - jscript and html widgets for all framework
+https://js.devexpress.com/
+
+SIte mapper
+https://www.powermapper.com/products/mapper/maps/sitemap-generator/
+
+Git goodies and shortcuts
+https://frontendgods.com/useful-git-snippets/ 
+
+Slick and sick UI kit example
+http://market.designmodo.com/method-3/
+
+Front end God’s
+https://frontendgods.com/
+
+CSS recap
+https://www.taniarascia.com/overview-of-css-concepts/
+
+UI patterns sick
+https://csslayout.io/patterns
+
+HACKERMOON
+https://hackernoon.com/
+
+Amp framework for fast web mobile pages
+https://amp.dev/about/websites/ 
+
+Monocl
+https://lab.hakim.se/monocle/
+
+Ladda buttons
+https://lab.hakim.se/ladda/
+
+Designing is coding is designing
+https://alistapart.com/article/responsive-comping-obtaining-signoff-with-mockups/
+
+About low fi wireframes
+https://bradfrost.com/blog/post/html-wireframes/
+
+About rapid prototyping insights and intel
+https://blog.alexdevero.com/html-rapid-prototyping-facts-need-know/
+
+
+Motion kit
+https://uimotionkit.io/
+
+Design library website example in bootstrap
+https://leap.mediumra.re/home-software-library.html
+
+The no bs guide to git
+https://rogerdudler.github.io/git-guide/ 
+
+CSS formatter - one line per style
+https://www.cssportal.com/format-css/format.php
+
+Essential Git Commands
+https://dev.to/dhruv/essential-git-commands-every-developer-should-know-2fl
+
+Material components angular
+https://gist.github.com/pimatco/d5b1891feb90b60ca4681011b6513873
+
+CSS vs preprocessors
+https://codyhouse.co/blog/post/css-custom-properties-vs-sass-variables   and 
+https://codeburst.io/do-you-really-need-the-preprocessor-use-css-variables-instead-582dacad4b8c
+
+Sick russian 3d cubic page with slick graphic deisgn
+https://gruev.space/
+
+Vivify animation lib
+http://vivify.mkcreative.cz/
+
+Friking amazing hover effects on pictures in css lib
+http://imagehover.io/
+
+Pretty checkbox css
+https://lokesh-coder.github.io/pretty-checkbox/#basic-checkbox
+
+Tooltips css
+https://eliortabeka.github.io/tootik/
+
+
+
+CSS libs
+https://www.designyourway.net/drb/the-most-popular-css-libraries-that-are-on-github/
+
+Online courses for web technologies and angular.
+https://scotch.io/courses/build-your-first-angular-website/adding-bulma-css-to-an-angular-app?autoplay=true
+
+Sampel creative Tim design Ui System Booty
+https://demos.creative-tim.com/blk-design-system/index.html
+
+
+Free front end effects
+https://freefrontend.com/css-code-examples/
+
+
+Free videos Pixabay slick sick future retro
+https://pixabay.com/videos/tunnel-corridor-scifi-sci-fi-26475/
+
+
+Free cover videos
+https://coverr.co/
+
+
+
+Coollectio iof aniumation tools
+https://speckyboy.com/css-animation/
+
+
+CSS powerful animations
+http://animista.net/
+
+
+CSS animator app
+https://keyframes.app/editor/
+
+Power Bootie Kit for modern designs
+https://designrevision.com/demo/shards/
+
+Powerful grid generator to make layouts in seconds
+https://grid.layoutit.com/
+
+Anccii generator to create text based art
+https://www.ascii-art-generator.org/
+
+Absolutely mind blowing web ui experiments
+https://domenicobrz.github.io/webgl/
+
+Color shade generator
+https://materialpalettes.com/
+
+Color Generstor
+https://coolors.co
+
+Colinera total de pagina en tree js con rotation y glitch effect
+https://airtightinteractive.com/demos/ctrlz/
+
+Aime JS power
+https://animejs.com/
+
+The power of serverless
+https://serverless.css-tricks.com/
+
+CSS Tooltip generator
+https://www.cssportal.com/css-tooltip-generator/#
+
+CSS loaders
+https://loading.io/css/
+
+Interval timer with visual cues
+http://www.intervaltimer.com/timers/latest
+
+Web deisgn tools organized by kit
+https://desket.co/blogs/news/infographic-the-100-best-web-design-tools-ever?utm_medium=Social&utm_source=Pinterest
+
+
+Ship station ship things
+https://info.shipstation.com/canada-sem?ref=GPPC_CAN-Branded-Mobile-AR_ShipStation_shipstation_Exact&gclid=Cj0KCQjwov3nBRDFARIsANgsdoG8ltyau0jESIe9j3PVL6-82CgwNBUENAthGBzI9Kj1E7aNVGseXkIaAl8kEALw_wcB&gclsrc=aw.ds
+
+
+Photo filters and cartoonization of images online (for thumbs etc)
+https://photomania.net/
+
+Grid studies
+https://labs.jensimmons.com/#mondrian
+https://cssgr.id/
+
+Grid snippets
+http://grid.malven.co/
+https://devhints.io/css-grid
+
+Grid courses in video excellent
+https://cssgrid.io/
+
+Grid garden to learn grid, 
+http://cssgridgarden.com/
+
+Auto transcription 
+https://trint.com/
+
+Automatic Audio to trasncrioption sofware service / 30m free
+https://www.happyscribe.co/
+
+Manual transcription tool:
+https://otranscribe.com/
+
+3d objects viewer
+https://p3d.in/Ac2C8
+
+Icons SVG ioS ish
+https://www.ikonate.com/#content 
+
+Gallery.io gallery 
+https://gallery.io/
+
+Youtube of coders
+https://codetalks.tv/
+
+
+Interactive landscape sick
+https://tympanus.net/Development/InteractiveLandscape/index.html
+
+Absolutely sick and thick design with three js and explossion
+https://tympanus.net/Development/ExplodingObjects/index-heart.html
+
+Clean, beautiful swedish web portfolio
+https://hakim.se/
+
+Data driven image charts
+https://quickchart.io/
+
+
+Color picker JS library
+https://iro.js.org/
+
+Angular Tutorials
+https://hackr.io/tutorials/learn-angular  
+
+Flexbox Cheatsheet
+https://yoksel.github.io/flex-cheatsheet
+
+Excellent ideas on copywriting and blog titles
+https://kopywritingkourse.com/blog-post-titles/ 
+
+REact Cursillo
+https://www.youtube.com/watch?v=4gAAiOKOwio
+
+English Grammar Refreshers
+https://www.englishgrammar.org
+
+
+https://yoksel.github.io/flex-cheatsheet/#align-items
+
+
+
+
+2018 season:
+
+New prototyping tool
+https://hadron.app/ 
+
+Add e-commerce and shopping cart to any item
+https://snipcart.com/#!/
+
+Canvas print with delivery in Canada
+https://posterjack.ca/ 
+
+Amazing and clear CSS flexbox guide
+https://medium.com/swlh/css-flexbox-fundamentals-visual-guide-1c467f480dac
+
+
+React Course
+https://scrimba.com/g/glearnreact 
+
+Slide Models for Google Slides
+https://slidemodel.com/google-slides/
+
+
+Amazing and slick background wallpapers and colors
+https://www.xmple.com
+
+
+Designing prototypes with X code
+https://www.youtube.com/watch?v=2WJ8Jjis-Ow
+
+
+Largest collection of cutout free PNG
+https://www.freepngs.com/
+
+
+Connect Woocommerce with Amazon affiliate prods
+https://mythemeshop.com/blog/add-amazon-products-woocommerce/
+
+
+Sell digital products - billing service
+https://paddle.com/pricing/
+
+Icons material for iOS
+https://google.github.io/material-design-icons/#icons-for-ios
+
+Funnel DIagrams
+https://app.funnelytics.io
+
+Batch SoundCloud download:
+https://theseotools.net/soundcloud-downloader
+
+Audio Player collection for your use
+https://freefrontend.com/css-music-players/
+
+Voice changer online app:
+https://voicechanger.io/
+
+Toolkit for mac os
+https://developer.apple.com/design/resources/ 
+
+20+ blog types to generate powerful content
+https://www.digitalmarketer.com/blog/blog-post-ideas/
+
+
+Excellent info product title and marketing creativity 
+https://www.digitalmarketer.com/
+
+
+Barba, JS transitions the cool way:
+http://barbajs.org
+
+Learn HTML,CSS and JS free
+https://dash.generalassemb.ly/ 
+
+Amazing 3d Car Visualizer
+http://carvisualizer.plus360degrees.com/threejs/ 
+
+Download all your Data from Docs -  Google Takeout
+https://takeout.google.com/settings/takeout
+
+Style Google Maps:
+https://mapstyle.withgoogle.com 
+
+How to use Adwords:
+https://www.youtube.com/watch?v=zdiXrKXK5Xw
+
+Software reviews and comparissons
+https://www.softwareadvice.com 
+
+Draggable - JS library for drag and drops, thick design
+https://shopify.github.io/draggable/ 
+
+Codepen Podcasts 
+https://blog.codepen.io/radio/
+
+Free pictures
+http://www.unsplash.com 
+
+Online photoshop
+https://www.photopea.com/
+
+Sketch cards to design webbies and more
+https://freebiesbug.com/sketch-freebies/flowchart-kit/
+
+Curso de CSS grid excelente en Espanol:
+https://www.youtube.com/watch?v=AxVXpS6PyRE
+
+Amazing powerful 3d designs with tree.js
+http://cabbi.bo/
+
+Design in the browser - article
+https://usersnap.com/blog/guide-designing-in-the-browser/
+
+Article: HTML and CSS are design tools 
+https://usersnap.com/blog/html-css-design-tools/
+
+Number augmenter scroller
+http://demo.tinywall.net/numscroller/
+
+Priority Guides
+https://alistapart.com/article/priority-guides-a-content-first-alternative-to-wireframes 
+
+Article Spinner
+https://best-free-online-article-rewriter.fatsage.com/ 
+
+CSS Grid Generator
+https://cssgr.id/
+
+https://blog.continuum.cl/every-ui-designer-needs-to-learn-react-heres-why-f2b8c2ff2c86?gi=edae1031c709
+
+Capture images from youtube Video
+http://www.youtubescreenshot.com/
+
+Cool site for agency
+https://valnetinc.com/en/get-in-touch
+
+Inspiration from CSS design awards
+https://www.cssdesignawards.com/
+
+Frameworks Ranked by community votes
+https://sitecake.com/resources/css-frameworks.html
+
+Coding accessible for designers and artists
+https://p5js.org/ 
+
+Tutorials for web tech
+https://hackr.io/
+
+Format CSS Code. 1 Line per Style:
+http://www.cssportal.com/format-css/index.php
+
+Easing animation reference guide
+http://easings.net/ 
+
+Free Stock images for your projects
+https://www.freepik.com/
+http://www.picjumbo.com
+https://pixabay.com/
+
+Article on creating story frames, as starting point for pages that require storytelling.
+https://uxdesign.cc/storyframes-before-wireframes-starting-designs-in-the-text-editor-ec69db78e6e4 
+
+Amazing Designer Cheat Sheets:
+https://websitesetup.org/html5-cheat-sheet/
+
+QuickTips tooltips for your webs
+https://speckyboy.com/free-css-tooltip-snippets/
+
+Material Design Mix with Bootstrap sample template
+http://trendytheme.net/demo/matrox/op-index-book.html
+
+WaveSourfer sound cloud like soundwave for interface
+https://wavesurfer-js.org/
+
+Material Design Elements
+https://bootsnipp.com/snippets/featured/material-design-tab-style
+
+Official site for web components:
+https://www.webcomponents.org
+
+Admin Templates made in bootstrap and with material themes:
+https://colorlib.com/wp/html-admin-templates/
+
+This could be better..
+Simple brutal applications
+https://thiscouldbebetter.neocities.org/texteditor.html
+
+All APIS you want to use:
+https://www.programmableweb.com/
+
+Google Express Layout - flat 
+https://express.google.com
+
+CSS GRID course
+https://cssgrid.io/
+
+Brutalist art direction article on styl eguides and reference
+http://redoctober.com/blog/styleguides-the-other-side-of-webdesign
+
+Grid Layouts learn by example - professional samples, simple and effective with all you need
+https://gridbyexample.com/
+
+Wallies
+http://thewallpaper.co/futuristic-world-digital-art-wallpaper-hd-wallpapers-download-amazing-artwork-pictures-samsung-phone-wallpapers-display-digital-photos-1920x1080/
+
+3D models
+https://3d.io/
+
+Lorem Picsum - image fillers and placeholdwers
+https://picsum.photos/ 
+
+Excellent timpanus guide to grid
+https://tympanus.net/codrops/css_reference/grid/
+
+Very cool brutal minimal design tool
+https://blot.im/
+
+
+Grid Layouts
+https://hackernoon.com/how-css-grid-beats-bootstrap-85d5881cf163
+
+Bootstrap Free Editor with sweet components:
+https://mobirise.com/bootstrap-builder/
+
+Super WebDesigner powers with CSS libs and here the directory to all the shit:
+http://cssdb.co/
+
+Snazzy maps for google 
+https://snazzymaps.com/
+
+VUE guide by CSS Tricks
+https://css-tricks.com/intro-to-vue-5-animations/
+
+Vue Animations:
+https://www.youtube.com/watch?v=Vp37fWKOlV4 
+
+Vue Tutorials
+https://vuejsexamples.com/
+
+Angular exercises for designers
+http://plnkr.co/users/simpulton/plunks/tagged/ng-designers
+
+Sequence.js the modern slider:
+https://www.sequencejs.com
+
+Taggle: create tag boxes on text fields:
+https://sean.is/poppin/tags 
+
+Amazing microlib to make progress bars:
+http://github.dixpix.de/progress.js/
+
+Microlabs to accomplish things in web front end
+http://microjs.com/ 
+
+Materialize CSS
+http://materializecss.com/
+
+Article on Sketch libraries vs UI Design Systems.
+http://bradfrost.com/blog/post/your-sketch-library-is-not-a-design-system/
+
+Resume OK, samples of resumes for tech people
+https://www.resumeok.com/
+
+Javascript Hero, mini class
+http://www.jshero.net/
+
+Push Sidebar in bootstrap 4 for your projects
+https://bootstrapious.com/p/bootstrap-sidebar
+
+Eye opener Software Dev Explainer:
+https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea
+
+A-frame GUI Examples:
+https://rdub80.github.io/aframe-gui/examples/index.html
+
+CarUX WebVR platform
+http://www.plus360degrees.com/uxcars/
+
+Renault Space Visualization in WebGL
+http://renaultespace.littleworkshop.fr/
+
+Web VR Resources
+http://ottifox.com/resources.html
+
+Bootstrap Material Design
+https://mdbootstrap.com/layout/bootstrap-layout/#introduction 
+
+Javascript for Cats | Easy to learn JS
+http://jsforcats.com/
+
+
+
+--------- 2017 season
+
+Photosphere Viewer
+http://photo-sphere-viewer.js.org/
+
+Live designer canva alternative free
+https://www.fotor.com/
+
+Grab 360 images from flr equirectasngular
+https://www.flickr.com/groups/equirectangular/
+
+Grab 360 panoramas out of Google StreetView
+https://streetviewdownload.eu/ 
+
+A-frame examples of WebVR 
+https://altspacevr.github.io/aframe/examples/ 
+
+Fantastic Examples of Fonts against BG
+http://tobiasahlin.com/typesource/
+
+Animated Spinners and Loaders for your web page
+http://tobiasahlin.com/spinkit/
+
+Cloud Media Hosting Service
+https://cloudinary.com/console/media_library
+
+CSS new tutorial
+http://learnlayout.com/
+
+MAC Ios Design Guide
+https://developer.apple.com/design/resources/#ios-apps
+
+Webb VR buildup
+https://vizor.io/
+
+3d objects for sketchup 
+https://3dwarehouse.sketchup.com/ 
+
+3d objects to build the 3d web
+https://poly.google.com/ 
+
+Brutalist Framework Massive library
+http://www.brutalistframework.com/bfx
+
+Behance Showcase and find Creative Work
+https://www.behance.net/
+
+Brutalist Inspiration
+http://brutalistwebsites.com/
+
+Brutalist Pictures
+View pictures of brutalist Design
+
+Brutalism Inspiration:
+https://www.carbonbeauty.com/ 
+
+A-Frame, Web VR:
+https://aframe.io/
+
+Annotate Websites, comment etc
+https://web.hypothes.is/
+
+About brutalism and anti design
+https://www.nngroup.com/articles/brutalism-antidesign/ 
+
+Free high quality stock pics:
+https://unsplash.com/
+
+Dev Reference Handbook
+/www.alvit.de/handbook/index.php
+
+Free Video Covers
+http://www.coverr.co/#code
+
+Make Custom Mailforms Forms Easy
+https://formspree.io/?email+=
+
+HTML dog with examples
+www.htmldog.com
+
+Amazing experiment of experiments
+http://Fff.cmiscm.com   
+
+Create pages like a pro right away with this dragger
+www.snappages.com
+
+Unit Conversion
+http://www.unit-conversion.info/
+
+Map based charts for your website
+https://developers.arcgis.com/
+
+Capture Heatmaps from users and identify patterns.
+http://www.hotjar.com
+
+Create lists and tasks
+http://trello.com
+
+Online marketing collateral designer
+http://canva.com
+
+Screen Capture
+http://screencastomatic.com
+
+
+Print Screen
+http://prnt.sc/
+
+
+Create Google Doc
+http://docs.google.com/document
+
+Optical Character Recognition
+http://www.onlineocr.com  
+
+How to Do email sniper and extract - mail hunter + snagit
+https://www.youtube.com/watch?v=nS3ur2cEy6I 
+
+Word counter with amazing break down
+https://wordcounter.io/
+
+Free Videos for your projects
+https://videos.pexels.com/ 
+
+Free Images for your projects
+https://www.pexels.com/ 
+
+Ionic Creator
+https://creator.ionic.io/app/dashboard
+
+WebFlow - web builder for bootstrap
+https://webflow.com/designer 
+
+Bootstrap cheatsheet for version 4
+https://hackerthemes.com/bootstrap-cheatsheet/#card__bg-primary 
+
+Booty Color Selector:
+http://bootstrap-colorselector.flaute.com/ 
+
+Bootstrap Color Picker
+https://farbelous.github.io/bootstrap-colorpicker/ 
+
+WORD COUNTER JAVASCRIPT
+https://jsfiddle.net/deepumohanp/jZeKu/ 
+
+SLIDEOUT MENU:
+https://slideout.js.org/ 
+
+CUSTOM BOX FOR MODAL STYLES
+http://dixso.github.io/custombox/ 
+
+SLIP.JS FOR REORDERING LISTS
+https://kornel.ski/slip/ 
+ 
+BOOTY $ STARTER TEMPLATE
+https://rundiz.github.io/bootstrap4-basic-template/ 
+
+SOME DISTRESS RELAX:
+http://onelinefun.com/puns/ 
+
+MOTION DESIGN UI IN CSS
+http://waaark.com/ 
+
+PARTICLE LIB
+https://github.com/VincentGarreau/particles.js/ 
+
+NEWER - fun template sampler
+http://themebang.com/templates/neuer-v1.2/# 
+
+SUPERCOOL TEMPLATE FOR COMPANY PORTFOLIO
+http://themetorium.net/demo/html/wrapbootstrap/red/v1.4/theme/index.html# 
+
+ANIMSITION -  transitions 
+http://git.blivesta.com/animsition/ 
+
+CROSSCOVER - amazing slider with cool new way effects
+http://git.blivesta.com/crosscover/ 
+
+Clonable: Grid Portfolio simple cool
+https://madg.com/work/ 
+
+Angular Book to start, from novice to ninja:
+https://play.google.com/books/reader?id=37CjBgAAQBAJ&printsec=frontcover&output=reader&hl=en&pg=GBS.PP1 
+
+Animation Libraries & Tools
+https://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-libraries-for-javascript-and-css3-plus-performance-tips.html 
+
+Amazing Angular Plunks to learn and get started
+http://plnkr.co/users/simpulton/plunks/tagged/ng-designers 
+
+Learning Angular for Designers
+https://www.youtube.com/watch?v=2rA9oAvpqDY 
+
+Origami Prototyper
+http://origami.design/documentation/ 
+
+amazing tool to make sites based on html5 up
+https://carrd.co/build 
+
+skekl framework used in html5 up sites:
+https://github.com/ajlkn/skel 
+
+Animated Libs for Dersignerd and devs:
+https://codegeekz.com/15-best-javascript-animation-libraries-for-developers/ 
+Interactive Video framework:
+https://h5p.org/getting-started 
+
+Video Sources:
+https://www.videvo.net/ 
+
+Slider with no deps:
+https://pawelgrzybek.com/siema/ 
+
+AlvaroTrigo: developer with few JUI libraries such as fullpage.js
+http://alvarotrigo.com/ 
+
+Video Background Easy JS
+http://vodkabears.github.io/vide/ 
+
+Venn Js - library to make venns
+https://github.com/benfred/venn.js 
+
+Bootstrap CheatSheet:
+https://hackerthemes.com/bootstrap-cheatsheet/ 
+
+Free, fast Webhost to test your work on the webz:
+https://www.000webhost.com/members/website/list 
+
+3d Bold Nav:
+https://codyhouse.co/demo/3d-bold-navigation/index.html 
+
+NavNav examples of navigation:
+http://navnav.co/ 
+
+Ditto: inspiring layout page to clone
+http://www.dittodc.com/ 
+
+Nav Pusher
+https://chrisyee.ca/pushy/# 
+
+Reveal JS - Slide Framework:
+http://lab.hakim.se/reveal-js/#/ 
+
+Swedish JS developer amazing portfolio site
+http://lab.hakim.se/meny/?u=http://hakim.se 
+
+Flowtime
+Online presentation framework for slides 
+
+Fullpage JS - lib for full page animations
+https://www.javascripting.com/view/fullpage-js 
+
+Anime JS for sick animations on the web
+http://anime-js.com/documentation/ 
+
+Howler JS for fantastic audio players
+https://howlerjs.com/ 
+
+Khan academy, the world of js libraries:
+https://www.khanacademy.org/computing/computer-programming/html-css-js/using-js-libraries-in-your-webpage/a/the-world-of-js-libraries 
+
+Coverr
+http://www.coverr.co/#code
+
+
+The world of javascript libraries to power up your webs:
+https://www.javascripting.com/ 
+
+chart maker simple
+https://www.meta-chart.com/area#/display 
+
+Kindling Framework:
+https://timothylong.com/kindling/ 
+
+Hover FX library to use on buttons 
+http://ianlunn.github.io/Hover/ 
+
+Hi Charts Color Reference:
+http://api.highcharts.com/highcharts/chart.events 
+
+Hi Charts visual editor:
+https://cloud.highcharts.com 
+
+Framer:
+www.framer.com 
+
+Principle:
+http://principleformac.com/ 
+
+Sketch Resources
+https://www.sketchappsources.com/resource/download-2592.html 
+
+Wireframe CC tool:
+https://wireframe.cc 
+
+Comparison of Charts
+http://socialcompare.com/en/comparison/javascript-graphs-and-charts-libraries 
+
+
+AnyChart
+http://www.anychart.com/ 
+
+
+
+Social Compare - excellent tool to compare resources 
+http://socialcompare.com/ 
+
+
+Full Screen Navigation:
+http://codepen.io/danbhala/pen/EKoNrO 
+
+
+AmCharts
+https://www.amcharts.com/ 
+
+
+Chart Comparisons:
+https://en.wikipedia.org/wiki/Comparison_of_JavaScript_charting_frameworks 
+
+CSS Tricks:
+https://css-tricks.com/semantic-class-names/ 
+
+Babylon JS - 3d objects in Web GL
+http://www.babylonjs.com/ 
+
+CDN for Javascript libs, plenty of resources:
+No more localfiles, go to the world of external resource
+https://cdnjs.com 
+
+D3 Graphics
+Create Data visualization graphics that will blow you away
+https://d3js.org/   
+
+Examples of Data Visualizations
+http://www.webdesignerdepot.com/2009/06/50-great-examples-of-data-visualization/ 
+
+Best data visualization libraries for Using in Web Projects
+https://thenextweb.com/dd/2015/06/12/20-best-javascript-chart-libraries/#.tnw_xzwwtsvR 
+
+Amazing Dashboard Designs for Inspiration:
+http://designrfix.com/design/dashboard-design 
+
+**Customizables Examples of General Charts from Chartist
+http://gionkunz.github.io/chartist-js/examples.html 
+
+
+Google Charts for Reference and Sampling 
+https://developers.google.com/chart/interactive/docs/gallery 
+
+Colored Google Maps for Designing Geo Data Driven UI
+https://snazzymaps.com/ 
+
+Bootstrap Sidebar
+https://blackrockdigital.github.io/startbootstrap-simple-sidebar/# 
+
+15 amazing javascript chart libraries to use in your projects
+https://www.sitepoint.com/15-best-javascript-charting-libraries/ 
+
+HighCharts: Dynamic fantastic charts to use in your projects
+http://www.highcharts.com/demo 
+
+Amazing Polar clock graphic
+http://bl.ocks.org/mbostock/1096355 
+
+Zingcharts amazing powerful and beautiful includes venn and others
+https://www.zingchart.com/docs/getting-started/your-first-chart/ 
+
+Graphics and charts , Recommended by software director
+https://www.tableau.com/ 
+
+Tools to embed charts online:
+http://www.addictivetips.com/web/3-tools-to-create-embed-graphs-online/ 
+
+Chartblocks online chart builder
+http://www.chartblocks.com/en/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
